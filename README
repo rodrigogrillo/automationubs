@@ -1,1 +1,6 @@
-TESTE
+To execute the automation, please run the "Runner" file.
+
+Automation using Selenium WebDriver and Cucumber
+Automation with option to use Chrome or Firefox Browser.
+Version of Selenium Webdriver: 3.11.0
+Version of Cucumber: 1.2.5
